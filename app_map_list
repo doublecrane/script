@@ -1,0 +1,27 @@
+#app对应的中文名称
+#格式com.XXX.XXX 制表符 能百度查找的中文名
+
+cn.wps.moffice_eng:	金山WPS
+com.UCMobile:	UC浏览器
+com.baidu.BaiduMap:	百度地图
+com.baidu.bus:	百度公交
+com.baidu.easyroot:	百度一键ROOT
+com.baidu.lbs.waimai:	百度外卖
+com.baidu.netdisk:	百度网盘
+com.blovestorm:	来电通
+com.eg.android.AlipayGphone:	支付宝钱包
+com.gui.gui.chen.flash.light.one:	安卓手电筒
+com.ijinshan.kbatterydoctor:	金山电池医生
+com.moji.mjweather:	墨迹天气
+com.rdhsoftware.anywhere:	随时随地背单词
+com.sankuai.meituan.takeoutnew：	美团外卖
+com.sds.android.ttpod:	天天动听
+com.sinovatech.unicom.ui:	联通手机营业厅
+com.sohu.inputmethod.sogou:	搜狗输入法
+com.taobao.taobao:	手机淘宝
+com.taobao.wifi:	淘Wifi
+com.tencent.androidqqmail:	QQ邮箱
+com.tencent.mobileqq:	手机QQ
+com.tencent.qt.qtl:	掌上英雄联盟
+com.zdworks.android.zdclock:	正点闹钟
+me.ele:	饿了么
