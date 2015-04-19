@@ -44,3 +44,4 @@ cat app_list | while read line_app_com_name
 	fi
 	done
 	rm app_list webpage.html app_map_list
+
